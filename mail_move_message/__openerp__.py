@@ -1,7 +1,7 @@
 {
     'name' : 'Move message to thread',
     'version' : '1.0.0',
-    'author' : 'Ivan Yelizariev',
+    'author' : 'Matiar Rahman',
     'category' : 'Custom',
     'website' : 'https://yelizariev.github.io',
     'description': """

@@ -1,7 +1,7 @@
 {
     'name' : 'Use partner language in mail',
     'version' : '1.0.0',
-    'author' : 'Ivan Yelizariev',
+    'author' : 'Matiar Rahman',
     'category' : 'Mail',
     'website' : 'https://yelizariev.github.io',
 

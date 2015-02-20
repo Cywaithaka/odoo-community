@@ -1,7 +1,7 @@
 {
     'name' : 'Special offer in eCommerce (custom) OBSOLETE',
     'version' : '1.0.0',
-    'author' : 'Ivan Yelizariev',
+    'author' : 'Matiar Rahman',
     'category' : 'Sale',
     'website' : 'https://yelizariev.github.io',
     'description': """

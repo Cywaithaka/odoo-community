@@ -1,7 +1,7 @@
 {
     'name' : 'Improvements for mass mailing',
     'version' : '1.0.0',
-    'author' : 'Ivan Yelizariev',
+    'author' : 'Matiar Rahman',
     'category' : 'Mail',
     'website' : 'https://yelizariev.github.io',
     'description': """

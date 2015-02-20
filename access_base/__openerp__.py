@@ -1,7 +1,7 @@
 {
     'name' : 'Basic module for custom security stuff',
     'version' : '1.0.0',
-    'author' : 'Ivan Yelizariev',
+    'author' : 'Matiar Rahman',
     'category' : 'Base',
     'website' : 'https://yelizariev.github.io',
     'description': """

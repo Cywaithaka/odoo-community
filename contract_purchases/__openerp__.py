@@ -1,7 +1,7 @@
 {
     'name' : 'Purchases in contract',
     'version' : '1.0.0',
-    'author' : 'Ivan Yelizariev',
+    'author' : 'Matiar Rahman',
     'category' : 'Sales',
     'website' : 'https://yelizariev.github.io',
     'description': """

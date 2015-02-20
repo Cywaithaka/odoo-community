@@ -1,7 +1,7 @@
 {
     'name' : 'Sales in mediation company ',
     'version' : '1.0.0',
-    'author' : 'Ivan Yelizariev',
+    'author' : 'Matiar Rahman',
     'category' : 'Workflow',
     'website' : 'https://yelizariev.github.io',
     'description': """

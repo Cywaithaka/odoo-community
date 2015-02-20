@@ -1,7 +1,7 @@
 {
     'name' : 'Website proposal',
     'version' : '1.0.0',
-    'author' : 'Ivan Yelizariev',
+    'author' : 'Matiar Rahman',
     'category' : 'Base',
     'website' : 'https://yelizariev.github.io',
     'description': """
