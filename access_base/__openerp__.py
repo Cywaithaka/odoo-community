@@ -3,7 +3,7 @@
     'version' : '1.0.0',
     'author' : 'Matiar Rahman',
     'category' : 'Base',
-    'website' : 'https://yelizariev.github.io',
+    'website' : 'http://matiarrahman.com/',
     'description': """
 See access_custom module as example of usage.
 

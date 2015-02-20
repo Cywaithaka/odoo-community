@@ -3,7 +3,7 @@
     'version' : '1.0.0',
     'author' : 'Matiar Rahman',
     'category' : 'Sale',
-    'website' : 'https://yelizariev.github.io',
+    'website' : 'http://matiarrahman.com/',
     'description': """
 Set False as default value for display_employees_suggestions and display_groups_suggestions.
 

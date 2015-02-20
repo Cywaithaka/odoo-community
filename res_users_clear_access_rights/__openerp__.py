@@ -3,7 +3,7 @@
     'version' : '1.0.0',
     'author' : 'Matiar Rahman',
     'category' : 'Base',
-    'website' : 'https://yelizariev.github.io',
+    'website' : 'http://matiarrahman.com/',
     'description': """
     Allow to delete user from all access groups.
     """,

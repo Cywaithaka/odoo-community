@@ -3,7 +3,7 @@
     'version' : '1.0.0',
     'author' : 'Matiar Rahman',
     'category' : 'Custom',
-    'website' : 'https://yelizariev.github.io',
+    'website' : 'http://matiarrahman.com/',
     'description': """
 After customer make an online payment (e.g. via paypal), new invoice is created and validated.
 

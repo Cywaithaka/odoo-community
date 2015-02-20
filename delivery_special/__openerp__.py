@@ -3,7 +3,7 @@
     'version' : '1.0.0',
     'author' : 'Matiar Rahman',
     'category' : 'Sale',
-    'website' : 'https://yelizariev.github.io',
+    'website' : 'http://matiarrahman.com/',
     'description': """
 Add field "Special delivery" to product and new condition at delivery grid definition. For example, "if Special Delivery > 0, delivery price is 0".
 
